@@ -1,0 +1,102 @@
+C:/Users/andre/source/repos/API/Application/bin/Debug/net7.0/Application.deps.json
+C:/Users/andre/source/repos/API/Application/bin/Debug/net7.0/Application.dll
+C:/Users/andre/source/repos/API/Application/bin/Debug/net7.0/Application.pdb
+C:/Users/andre/source/repos/API/Application/bin/Debug/net7.0/Domain.dll
+C:/Users/andre/source/repos/API/Application/bin/Debug/net7.0/Persistence.dll
+C:/Users/andre/source/repos/API/Application/bin/Debug/net7.0/Domain.pdb
+C:/Users/andre/source/repos/API/Application/bin/Debug/net7.0/Persistence.pdb
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/Application.dll
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/refint/Application.dll
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/Application.pdb
+C:/Users/andre/source/repos/API/Application/obj/Debug/net7.0/ref/Application.dll
+/Users/andresfanjul/Personal/API/Application/bin/Debug/net7.0/Application.deps.json
+/Users/andresfanjul/Personal/API/Application/bin/Debug/net7.0/Application.dll
+/Users/andresfanjul/Personal/API/Application/bin/Debug/net7.0/Application.pdb
+/Users/andresfanjul/Personal/API/Application/bin/Debug/net7.0/Domain.dll
+/Users/andresfanjul/Personal/API/Application/bin/Debug/net7.0/Persistence.dll
+/Users/andresfanjul/Personal/API/Application/bin/Debug/net7.0/Domain.pdb
+/Users/andresfanjul/Personal/API/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/Application.dll
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/Application.pdb
+/Users/andresfanjul/Personal/API/Application/obj/Debug/net7.0/ref/Application.dll
+C:\Users\andre\source\repos\API\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\andre\source\repos\API\Application\bin\Debug\net7.0\Application.dll
+C:\Users\andre\source\repos\API\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\andre\source\repos\API\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\andre\source\repos\API\Application\bin\Debug\net7.0\Persistence.dll
+C:\Users\andre\source\repos\API\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\andre\source\repos\API\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\Application.dll
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\andre\source\repos\API\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Application.dll
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Persistence.dll
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.dll
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\andre\Desktop\Adolfo-Tesis\JourneyRD-API\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Application.dll
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Persistence.dll
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.dll
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\andre\OneDrive\Desktop\Adolfo Tesis\JourneyRD-API\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\andre\source\JourneyRD-API\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\andre\source\JourneyRD-API\Application\bin\Debug\net7.0\Application.dll
+C:\Users\andre\source\JourneyRD-API\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\andre\source\JourneyRD-API\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\andre\source\JourneyRD-API\Application\bin\Debug\net7.0\Persistence.dll
+C:\Users\andre\source\JourneyRD-API\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\andre\source\JourneyRD-API\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\Application.dll
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\andre\source\JourneyRD-API\Application\obj\Debug\net7.0\ref\Application.dll
